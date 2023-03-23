@@ -1,4 +1,10 @@
 # Web-Scrapping
 
 - Allow users to retrieve actual data from tables on webpage that are only viewable
-![image](https://user-images.githubusercontent.com/56888440/227101367-a8995cf6-d738-4d09-bd6b-ddb6a8966a05.png)
+
+## What was used
+
+- Pandas: is used to create and input data into from html table
+- Requests: is used to fetch the webpage from the url
+- BeautifulSoup: is used to search find the table and data in the webpage
+
